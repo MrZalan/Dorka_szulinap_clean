@@ -42,7 +42,7 @@ const clues = [
   {
     question: "8. Ahol zászló leng és nagy döntések születtek,\nOtt Rákóczi némán áll – emlékezve egy nemzetnek.\nSzavai régiek, nyelvük sem a miénk,\nDe vége rejti a jelszót, ha figyelmesen kísérsz.",
     answer: "vulnera",
-    video: "videos/output.mp4"
+    video: "videos/MP4_20250801_154536VLOG.mp4"
   },
 
 
